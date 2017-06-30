@@ -1,17 +1,16 @@
 # FAQ (*)
 
 ## Is there any progress yet?
-No.
+Yes 
 
 ## Can you do XYZ?
-No.
-
+Yes 
+ 
 ## Is ABC fixed?
-No.
-
+Yes 
+ 
 ## Answers to other related questions
-No.
+Yes 
+ 
 
 
-
-(*) No guarantees on correctness
